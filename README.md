@@ -27,3 +27,5 @@ To prediction of the models run:
 
 `python predict.py`
 
+## Cite:
+Xudong Zhang, Gan Wang, Xiangyu Meng, Shuang Wang, Ying Zhang, Alfonso Rodriguez-Paton, Jianmin Wang, Xun Wang, Molormer: a lightweight self-attention-based method focused on spatial structure of molecular graph for drug–drug interactions prediction, Briefings in Bioinformatics, 2022;, bbac296, https://doi.org/10.1093/bib/bbac296
